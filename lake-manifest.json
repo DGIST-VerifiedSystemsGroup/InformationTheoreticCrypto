@@ -8,7 +8,7 @@
    "rev": "d9f6d1887c233aeabd725c175bd2ceca6215452a",
    "name": "mathlib",
    "manifestFile": "lake-manifest.json",
-   "inputRev": "master",
+   "inputRev": "d9f6d1887c233aeabd725c175bd2ceca6215452a",
    "inherited": false,
    "configFile": "lakefile.lean"},
   {"url": "https://github.com/leanprover-community/plausible",
@@ -91,6 +91,6 @@
    "inputRev": "v4.34.0-rc2",
    "inherited": true,
    "configFile": "lakefile.toml"}],
- "name": "lean_testproj",
+ "name": "information_theoretic_crypto",
  "lakeDir": ".lake",
  "fixedToolchain": false}

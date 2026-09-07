@@ -1,1 +1,11 @@
-/.lake
+# Lake build artifacts and dependencies
+.lake/
+
+# Language server & editor cache
+.elan/
+.lean/
+
+# OS / Editor specific
+.DS_Store
+*.swp
+*~
